@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string-array name="teatitles">
+        <item>教授</item>
+        <item>副教授 </item>
+        <item>讲师</item>
+        <item>助教</item>
+    </string-array>
+</resources>
